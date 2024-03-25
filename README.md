@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [wathika.tech](wathika.tech)
+- 👨‍💻 All of my projects are available at [wathika.tech](https://wathika.tech)
 
 - 💬 Ask me about **C, Python(Django/Flask),Linux, Bash**
 
